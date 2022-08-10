@@ -11,7 +11,7 @@ Table of Contents
   - [程序化天空球](#程序化天空球)
 - [Util](#util)
 - [Code](#code)
-
+- [资源](#资源)
 
 
 
@@ -54,3 +54,9 @@ Table of Contents
 
 # Code
 - [设计模式](https://refactoringguru.cn/design-patterns/catalog)
+
+# 资源
+- [OpenGameArt](https://opengameart.org/) : 啥都有 图片音乐模型 质量不一
+- [Mixamo](https://www.mixamo.com/) : 有大量动作
+- https://itch.io/game-assets : 免费 付费的都有 质量不错
+- [原神MMD资源](https://www.aplaybox.com/u/680828836)
