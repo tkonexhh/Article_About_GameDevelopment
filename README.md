@@ -48,7 +48,7 @@ Table of Contents
 - [Unity 卡通渲染 程序化天空盒](https://zhuanlan.zhihu.com/p/540692272) : 这篇文章很喜欢
 
 ## 优化
-- https://www.bilibili.com/video/BV1AL4y1b75c/?spm_id_from=333.788&vd_source=489c2e01ca37c86552ed1b83386b1ea6 很好的渲染向优化系列 是市面上比较少的良心教程
+- https://www.bilibili.com/video/BV1AL4y1b75c/ 很好的渲染向优化系列 是市面上比较少的良心教程
 
 # Util
 - [图形计算器 graphtoy](https://graphtoy.com/) : https://graphtoy.com/
