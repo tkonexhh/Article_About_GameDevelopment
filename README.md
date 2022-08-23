@@ -64,3 +64,4 @@ Table of Contents
 - [Mixamo](https://www.mixamo.com/) : 有大量动作
 - https://itch.io/game-assets : 免费 付费的都有 质量不错
 - [原神MMD资源](https://www.aplaybox.com/u/680828836)
+- 原神全部Texture (https://github.com/Escartem/GenshinTextures) : 高达14G
