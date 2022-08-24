@@ -10,6 +10,7 @@ Table of Contents
   - [多光源优化](#多光源优化)
   - [程序化天空球](#程序化天空球)
   - [阴影](#阴影)
+  - [大气散射](#大气散射)
   - [优化](#优化)
 - [Util](#util)
 - [Code](#code)
@@ -51,6 +52,10 @@ Table of Contents
 ## 阴影
 - https://zhuanlan.zhihu.com/p/460945398 : 级联阴影贴图 CSM
 - https://zhuanlan.zhihu.com/p/462371147 : PCSS 软阴影与性能优化
+
+## 大气散射
+- https://zhuanlan.zhihu.com/p/548799663 : 游戏魔法编程：unity实现完整大气散射
+- https://zhuanlan.zhihu.com/p/127026136 : 基于物理的大气散射 in Unity URP
 
 ## 优化
 - https://www.bilibili.com/video/BV1AL4y1b75c/ 很好的渲染向优化系列 是市面上比较少的良心教程
