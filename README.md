@@ -54,8 +54,11 @@ Table of Contents
 - https://zhuanlan.zhihu.com/p/462371147 : PCSS 软阴影与性能优化
 
 ## 大气散射
+- https://zhuanlan.zhihu.com/p/36498679 : 冯乐乐的
 - https://zhuanlan.zhihu.com/p/548799663 : 游戏魔法编程：unity实现完整大气散射
 - https://zhuanlan.zhihu.com/p/127026136 : 基于物理的大气散射 in Unity URP
+- https://github.com/SlightlyMad/AtmosphericScattering : 非常完备的实现
+- https://zhuanlan.zhihu.com/p/237502022 : 从零实现一套完整单次大气散射
 
 ## 优化
 - https://www.bilibili.com/video/BV1AL4y1b75c/ 很好的渲染向优化系列 是市面上比较少的良心教程
