@@ -12,6 +12,7 @@ Table of Contents
   - [阴影](#阴影)
   - [大气散射](#大气散射)
   - [优化](#优化)
+  - [NPR](#NPR)
 - [Util](#util)
 - [Code](#code)
 - [资源](#资源)
@@ -25,8 +26,9 @@ Table of Contents
 - [苍白的茧](http://dreamfairy.cn/blog/) :
 - [BRONSON ZGEB](https://bronsonzgeb.com/) :
 - [walkingfat 行尸走油](http://walkingfat.com/) :
-- [Simon schreibt.](http://simonschreibt.de/)
-
+- [Simon schreibt.](http://simonschreibt.de/) :
+- [MA YIDONG](http://ma-yidong.com/category/blog/) :
+- [陆泽西](http://www.luzexi.com/tag/Unity3D/) : <Unity3D高级编程-主程手记>作者
 
 # Unity
 ## Unity Editor 
@@ -62,6 +64,9 @@ Table of Contents
 
 ## 优化
 - https://www.bilibili.com/video/BV1AL4y1b75c/ 很好的渲染向优化系列 是市面上比较少的良心教程
+
+## NPR
+- https://zhuanlan.zhihu.com/p/435005339 : 原神Shader渲染还原解析
 
 # Util
 - [图形计算器 graphtoy](https://graphtoy.com/) : https://graphtoy.com/
