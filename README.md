@@ -31,6 +31,8 @@ Table of Contents
 - [陆泽西](http://www.luzexi.com/tag/Unity3D/) : <Unity3D高级编程-主程手记>作者
 - [冯乐乐](http://candycat1992.github.io/)
 - [zznewclear13](https://zznewclear13.github.io/posts/) : 
+- [GDC Vault](https://www.gdcvault.com/browse/)
+- [UWA 开源库](https://lab.uwa4d.com/)
 
 # Unity
 ## Unity Editor 
@@ -74,6 +76,7 @@ Table of Contents
 - [图形计算器 graphtoy](https://graphtoy.com/) : https://graphtoy.com/
 - [.Net Reference Source](https://referencesource.microsoft.com/) : 可以查看C#的具体实现
 - [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) : 可以查看Unity一些组件的C#实现 
+- [缓动函数速查表](https://easings.net/cn#) : 
 
 
 # Code
@@ -84,4 +87,4 @@ Table of Contents
 - [Mixamo](https://www.mixamo.com/) : 有大量动作
 - https://itch.io/game-assets : 免费 付费的都有 质量不错
 - [原神MMD资源](https://www.aplaybox.com/u/680828836)
-- 原神全部Texture (https://github.com/Escartem/GenshinTextures) : 高达14G
+- [原神全部Texture](https://github.com/Escartem/GenshinTextures) : 高达14G
