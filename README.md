@@ -4,6 +4,7 @@
 
 Table of Contents
 - [Blog](#blog)
+- [公开课](#公开课)
 - [Unity](#unity)
   - [Unity Editor](#unity-editor)
   - [Post Processing](#post-processing)
@@ -34,6 +35,13 @@ Table of Contents
 - [zznewclear13](https://zznewclear13.github.io/posts/) : 
 - [GDC Vault](https://www.gdcvault.com/browse/)
 - [UWA 开源库](https://lab.uwa4d.com/)
+
+# 公开课
+- [Games101](https://www.bilibili.com/video/BV1X7411F744) : 现代计算机图形学入门-闫令琪
+- [Games202](https://www.bilibili.com/video/BV1YK4y1T7yY) : 高质量实时渲染
+- [庄懂](https://space.bilibili.com/6373917/channel/collectiondetail?sid=185897) : 技美入门课
+- [Games104](https://www.bilibili.com/video/BV1oU4y1R7Km) : 游戏引擎导论
+
 
 # Unity
 ## Unity Editor 
