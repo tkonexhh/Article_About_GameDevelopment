@@ -13,6 +13,7 @@ Table of Contents
   - [大气散射](#大气散射)
   - [优化](#优化)
   - [NPR](#NPR)
+  - [框架](#框架)
 - [Util](#util)
 - [Code](#code)
 - [资源](#资源)
@@ -73,6 +74,10 @@ Table of Contents
 
 ## NPR
 - https://zhuanlan.zhihu.com/p/435005339 : 原神Shader渲染还原解析
+
+## 框架
+- https://github.com/DonnYep/CosmosFramework 
+- https://github.com/EllanJiang/GameFramework
 
 # Util
 - [图形计算器 graphtoy](https://graphtoy.com/) : https://graphtoy.com/
