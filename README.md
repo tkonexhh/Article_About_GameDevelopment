@@ -14,7 +14,7 @@ Table of Contents
   - [大气散射](#大气散射)
   - [优化](#优化)
   - [NPR](#NPR)
-  - [框架](#框架)
+  - [框架&开源库](#框架)
 - [Util](#util)
 - [Code](#code)
 - [资源](#资源)
@@ -40,7 +40,7 @@ Table of Contents
 # 公开课
 - [Games101](https://www.bilibili.com/video/BV1X7411F744) : 现代计算机图形学入门-闫令琪
 - [Games202](https://www.bilibili.com/video/BV1YK4y1T7yY) : 高质量实时渲染
-- [庄懂](https://space.bilibili.com/6373917/channel/collectiondetail?sid=185897) : 技美入门课
+- [庄懂](https://space.bilibili.com/6373917/channel/collectiondetail?sid=185897) : 技美入门课 特别特别推荐
 - [Games104](https://www.bilibili.com/video/BV1oU4y1R7Km) : 游戏引擎导论
 
 
@@ -87,20 +87,25 @@ Table of Contents
 ## 框架
 - https://github.com/DonnYep/CosmosFramework 
 - https://github.com/EllanJiang/GameFramework
+- https://github.com/egametang/ET : ET 框架
+- https://github.com/tuyoogame/YooAsset : YooAsset Unity 资源框架 非常推荐
+- https://github.com/526077247/TaoTie : 基于YooAsset资源管理的轻量级UI框架
+- https://github.com/tuyoogame/huatuo : 配表自动生成工具 非常推荐
 
 # Util
 - [图形计算器 graphtoy](https://graphtoy.com/) : https://graphtoy.com/
+- [图形计算器 desmos](https://www.desmos.com/calculator?lang=zh-CN) : 可以登录 然后保存图形公式
 - [.Net Reference Source](https://referencesource.microsoft.com/) : 可以查看C#的具体实现
-- [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) : 可以查看Unity一些组件的C#实现 
-- [缓动函数速查表](https://easings.net/cn#) : 
+- [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) : 可以查看Unity一些组件的C#实现 常看常新
 
 
 # Code
 - [设计模式](https://refactoringguru.cn/design-patterns/catalog)
+- [Unity下设计模式](https://github.com/su9257/DesignPatternsFamilyBucket)
 
 # 资源
 - [OpenGameArt](https://opengameart.org/) : 啥都有 图片音乐模型 质量不一
 - [Mixamo](https://www.mixamo.com/) : 有大量动作
 - https://itch.io/game-assets : 免费 付费的都有 质量不错
-- [原神MMD资源](https://www.aplaybox.com/u/680828836)
-- [原神全部Texture](https://github.com/Escartem/GenshinTextures) : 高达14G
+- [原神MMD资源](https://www.aplaybox.com/u/680828836) : 
+- [原神全部Texture](https://github.com/Escartem/GenshinTextures) : 高达14G 已经DMCA
