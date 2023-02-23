@@ -56,6 +56,10 @@ Table of Contents
 - [X-PostProcessing-URP](https://github.com/tkonexhh/X-PostProcessing-URP) : 我搬运毛星云到URP 同时加入了很多其他后处理
 - [高质量泛光（bloom）从理论到实战](https://zhuanlan.zhihu.com/p/525500877) : 
 
+### TAA
+- https://zhuanlan.zhihu.com/p/46841906 : Unity Temporal AA的改进与提高
+- https://zhuanlan.zhihu.com/p/112565771 : TAA的各种artifact及解决方案
+
 ## 多光源优化
 ### Cluster Based Light
 - https://zhuanlan.zhihu.com/p/108688512 :
@@ -77,6 +81,7 @@ Table of Contents
 - https://zhuanlan.zhihu.com/p/127026136 : 基于物理的大气散射 in Unity URP
 - https://github.com/SlightlyMad/AtmosphericScattering : 非常完备的实现
 - https://zhuanlan.zhihu.com/p/237502022 : 从零实现一套完整单次大气散射
+- https://github.com/AKGWSB/RealTimeAtmosphere : 
 
 ## 优化
 - https://www.bilibili.com/video/BV1AL4y1b75c/ 很好的渲染向优化系列 是市面上比较少的良心教程
@@ -91,6 +96,7 @@ Table of Contents
 - https://github.com/tuyoogame/YooAsset : YooAsset Unity 资源框架 非常推荐
 - https://github.com/526077247/TaoTie : 基于YooAsset资源管理的轻量级UI框架
 - https://github.com/tuyoogame/huatuo : 配表自动生成工具 非常推荐
+- https://github.com/focus-creative-games/hybridclr : 热更新
 
 # Util
 - [图形计算器 graphtoy](https://graphtoy.com/) : https://graphtoy.com/
@@ -108,4 +114,3 @@ Table of Contents
 - [Mixamo](https://www.mixamo.com/) : 有大量动作
 - https://itch.io/game-assets : 免费 付费的都有 质量不错
 - [原神MMD资源](https://www.aplaybox.com/u/680828836) : 
-- [原神全部Texture](https://github.com/Escartem/GenshinTextures) : 高达14G 已经DMCA
